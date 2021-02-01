@@ -10,3 +10,5 @@
 [搜狗中文文本分析语料库（搜狗实验室新闻数据精简版，xml转txt](https://share.weiyun.com/X0prakLr)
 
 [Java虚拟机规范(Java SE 8版)(带书签完整版).pdf](https://share.weiyun.com/JKZnPooz)
+
+[漫画算法 小灰的算法之旅.pdf  java版](https://share.weiyun.com/fBFPbjqw)
